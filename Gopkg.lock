@@ -4,8 +4,8 @@
 [[projects]]
   name = "github.com/zevdg/deptest"
   packages = ["."]
-  revision = "395b3cdcd980b9c06cc2320b2cc0374f836f3826"
-  version = "v0.1.0"
+  revision = "034a488738aaf78315fc0131911ec9eb5b56a564"
+  version = "v1.0.0"
 
 [[projects]]
   name = "github.com/zevdg/deptest-bystander"
@@ -14,14 +14,14 @@
   version = "v1.0.0"
 
 [[projects]]
-  name = "github.com/zevdg/deptest-secret-sauce"
+  name = "github.com/zevdg/deptest-oss-sauce"
   packages = ["."]
-  revision = "3015f17450b4c0eb0ac4e43f5bf376b6473349e7"
+  revision = "a6ebc2fc6b42690a39875f9bb161d5d1153a6289"
   version = "v1.0.0"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "378fd55252347e9747a0fb6184714a274fc33dc3068baffce5f6904814405b24"
+  inputs-digest = "486727d19dc917b57e5adcb16beb983dfd90ca1b8958daa285fa8392cd84b28b"
   solver-name = "gps-cdcl"
   solver-version = 1
